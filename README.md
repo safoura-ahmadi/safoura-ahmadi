@@ -82,25 +82,6 @@ My main project and an important part of my backend development journey.
 
 </div>
 
----
-
-## 🌱 Learning Journey
-
-<div align="center">
-
-### Backend Developer
-⬇️
-### Learning Angular
-⬇️
-### Full-Stack Developer
-⬇️
-### Software Engineer 🚀
-
-</div>
-
-I'm currently working toward becoming a **Full-Stack Developer** by combining my .NET backend knowledge with Angular frontend development.
-
----
 
 ## 🎓 Education
 
